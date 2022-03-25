@@ -1,0 +1,6 @@
+module Pods_RealmSwfit {
+  umbrella header "Pods-RealmSwfit-umbrella.h"
+
+  export *
+  module * { export * }
+}

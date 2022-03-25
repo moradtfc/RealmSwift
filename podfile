@@ -1,0 +1,4 @@
+target 'RealmSwfit' do
+  use_modular_headers!
+  pod 'RealmSwift', '~> 10.24'
+end
